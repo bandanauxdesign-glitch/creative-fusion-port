@@ -27,10 +27,7 @@ const About = () => {
           </h2>
           
           <p className="text-lg text-muted-foreground text-center mb-12 max-w-3xl mx-auto animate-fade-in">
-            I'm Bandana Nayek, a UI/UX and Product Designer who transitioned from a background in 3D animation. 
-            My experience in storytelling and visual design helps me craft interfaces that are both 
-            visually engaging and effortless to use. I'm passionate about turning ideas into thoughtful 
-            digital experiences that blend creativity with purpose.
+            A UI/UX designer crafting minimalist, intuitive web/mobile experiences that just feel right. I geek out on user research, wireframes, prototypes, testing, and iteration to make flows seamless and accessible. Nail design systems and apps that cut the noise (like my toilet finder that crushed urgency and hygiene). 3D animation background adds motion magic and storytelling punch.
           </p>
 
           <div className="grid md:grid-cols-3 gap-6 mt-12">

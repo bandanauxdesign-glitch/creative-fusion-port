@@ -44,8 +44,8 @@ const Hero = () => {
           {/* Portrait with Circular Background */}
           <div className="flex-1 flex justify-center items-center animate-fade-in" style={{ animationDelay: "0.2s" }}>
             <div className="relative">
-              <div className="w-80 h-80 md:w-96 md:h-96 rounded-full bg-gradient-to-br from-primary/30 to-primary/10 absolute -z-10 blur-2xl animate-pulse"></div>
-              <div className="w-80 h-80 md:w-96 md:h-96 rounded-full bg-primary/20 relative overflow-hidden border-4 border-primary/30 glow-orange">
+              <div className="w-96 h-96 md:w-[28rem] md:h-[28rem] rounded-full bg-gradient-to-br from-primary/30 to-primary/10 absolute -z-10 blur-2xl animate-pulse"></div>
+              <div className="w-96 h-96 md:w-[28rem] md:h-[28rem] rounded-full bg-primary/20 relative overflow-hidden border-4 border-primary/30 glow-orange">
                 <img
                   src={bandanaPortrait}
                   alt="Bandana Nayek - UI/UX Designer"
