@@ -232,7 +232,7 @@ const Experience = () => {
             
             <div>
               <p className="text-muted-foreground"><span className="text-primary font-semibold">Languages:</span> English, Hindi, Bengali, Odia</p>
-              <p className="text-muted-foreground mt-2"><span className="text-primary font-semibold">Relevant Background:</span> 5.1 years of professional experience in creative environments, building strong skills in visual storytelling, composition, motion, and animation techniques.</p>
+              <p className="text-muted-foreground mt-2"><span className="text-primary font-semibold">Previous Experience:</span> 5.1 years of professional experience in creative environments, building strong skills in visual storytelling, composition, motion, and animation techniques.</p>
             </div>
           </div>
 
