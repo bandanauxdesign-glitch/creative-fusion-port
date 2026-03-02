@@ -33,8 +33,7 @@ const Hero = () => {
   };
 
   const titleLine1 = "I'm Bandana,";
-  const titleLine2 = "UI/UX & Product 
-    Designer";
+  const titleLine2 = "UI/UX & Product Designer";
 
   return (
     <section id="home" className="min-h-screen flex items-center justify-center relative overflow-hidden pt-20">
